@@ -27,3 +27,18 @@ if __name__ == '__main__':
 
     print("\nRunning Sherlock...")
     run_sherlock(username)
+
+
+INSTALACIÓN 
+
+Clona el repositorio 
+
+   cd DESASTRE
+
+   Crea un entorno virtual y actívalo: python -m venv venv
+   source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+
+   Instala las dependencias: pip install git+https://github.com/m4ll0k/Infoga.git
+   pip install ipinfo
+   pip install sherlock
+   
