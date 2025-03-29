@@ -1,0 +1,10 @@
+# DESASTREDOX
+
+Este repositorio contiene scripts para utilizar Infoga, IPinfo y Sherlock.
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/DESASTRE.git
+   cd DESASTRE
